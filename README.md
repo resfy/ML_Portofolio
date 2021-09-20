@@ -5,12 +5,35 @@ This repository containing my machine learning projects for academic or self lea
 ## Content
 
 ### [Image classification](https://github.com/resfy/ML_Portofolio/tree/main/Image%20Processing)
-* [Cat vs Dogs Classification](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Cat%20vs%20Dog.py): A model to classify dog and cat pictures. 
-* [fashion MNIST Classification](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Fashion%20MNIST%20Classification.py): Classify fashion MNIST dataset into ten classes.
-* [Handwriten MNIST Classification](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Handwriten%20MNIST%20classification.py): Classify handwriten dataset into 10 class. Using callbacks for cancelling training process when validation accuracy > 98%
-* [Horse vs Human Classification](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Horse%20or%20Human%20Classification.py): Classify human and horse images. Avoid overfitting using image augmentation with image data generator.
-* [Human vs Horse with transfer learning](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Horse%20or%20Human%20With%20Transfer%20Learning.py): using inception V3 pretrained models.
+* [Cat vs Dogs Classification](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Cat%20vs%20Dog.py)
+Purpose : Classify dog and cat pictures using tensorflow models.
+Process : 
+Result  :
+
+* [fashion MNIST Classification](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Fashion%20MNIST%20Classification.py)
+Purpose : Classify fashion MNIST dataset into ten classes.
+Process :
+Result  :
+
+* [Handwriten MNIST Classification](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Handwriten%20MNIST%20classification.py)  
+Purpose : Classify handwriten dataset into 10 class.
+Process : Using callbacks for cancelling training process when validation accuracy > 98%
+Result  :
+
+* [Horse vs Human Classification](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Horse%20or%20Human%20Classification.py)
+Purpose : Classify human and horse images. Avoid overfitting using image augmentation with image data generator.
+Process :
+Result  :
+
+* [Human vs Horse with transfer learning](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Horse%20or%20Human%20With%20Transfer%20Learning.py)
+Purpose : Classify human and horses pictures using tensorflow models.
+Process : Using inception V3 pretrained models.
+Result  :
+
 * [Rock Paper Scisors](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Rock%20Paper%20Scisors.py)
+Purpose : Classify dog and cat pictures using tensorflow models.
+Process :
+Result  :
 
 ### [Natural Language processing](https://github.com/resfy/ML_Portofolio/tree/main/NLP)
 Text classification
