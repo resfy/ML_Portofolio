@@ -6,17 +6,14 @@ This repository containing my machine learning projects for academic or self lea
 
 ### [Image classification](https://github.com/resfy/ML_Portofolio/tree/main/Image%20Processing)
 * [Cat vs Dogs Classification](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Cat%20vs%20Dog.py)
-Purpose : Classify dog and cat pictures using tensorflow models.
-
-Process : 
-
-Result  :
+Purpose : Classify dog and cat pictures using tensorflow models.  
+Process :  
+Result  :  
 
 
 * [fashion MNIST Classification](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Fashion%20MNIST%20Classification.py)
-Purpose : Classify fashion MNIST dataset into ten classes.
-
-Process :
+Purpose : Classify fashion MNIST dataset into ten classes.  
+Process :  
 Result  :
 
 * [Handwriten MNIST Classification](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Handwriten%20MNIST%20classification.py)  
