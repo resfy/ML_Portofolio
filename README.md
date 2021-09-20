@@ -7,11 +7,15 @@ This repository containing my machine learning projects for academic or self lea
 ### [Image classification](https://github.com/resfy/ML_Portofolio/tree/main/Image%20Processing)
 * [Cat vs Dogs Classification](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Cat%20vs%20Dog.py)
 Purpose : Classify dog and cat pictures using tensorflow models.
+
 Process : 
+
 Result  :
+
 
 * [fashion MNIST Classification](https://github.com/resfy/ML_Portofolio/blob/main/Image%20Processing/Fashion%20MNIST%20Classification.py)
 Purpose : Classify fashion MNIST dataset into ten classes.
+
 Process :
 Result  :
 
@@ -54,7 +58,7 @@ Learning resources of Tensorflow Deployment course (Coursera) include:
 * tensorflow serving: Serving tensorflow models.
 
 
-### Other Project
+## Other Project
 * [Recomendations System](https://github.com/resfy/Recommendation-System) : Product recomendation models which training using amazon-product-reviews dataset
 * [My thesis](https://github.com/resfy/Tugas_Akhir-18317016) : Supervised multiclass classification of EEG signals
 * [My Bangkit Capstone Design](https://github.com/AjiSiwi/arunika-temuin) : Mobile apps development "Community activities platform"
