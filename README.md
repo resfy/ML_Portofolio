@@ -24,9 +24,11 @@ This repository containing my machine learning projects for academic or self lea
 * [Min Temperature Forecasting](https://github.com/resfy/ML_Portofolio/blob/main/Time%20series%20forecasting/Min%20Temperature%20Forecasting.py)
 * [Sunspot Forecasting](https://github.com/resfy/ML_Portofolio/blob/main/Time%20series%20forecasting/Sunspots%20Forecasting.py)
 
+### [Tensorflow Deployment](https://github.com/resfy/ML_Portofolio/tree/main/TensorFlow%20Deployment)
+learning resources of Tensorflow Deployment course (Coursera)
 
 
 ### Other Project
-* [Recomendations System](https://github.com/resfy/Recommendation-System)
-* [My thesis](https://github.com/resfy/Tugas_Akhir-18317016)
-* [My Bankit Capstone Design](https://github.com/AjiSiwi/arunika-temuin)
+* [Recomendations System](https://github.com/resfy/Recommendation-System) : Product recomendation models which training using amazon-product-reviews dataset
+* [My thesis](https://github.com/resfy/Tugas_Akhir-18317016) : Supervised multiclass classification of EEG signals
+* [My Bangkit Capstone Design](https://github.com/AjiSiwi/arunika-temuin) : Mobile apps development "Community activities platform"
